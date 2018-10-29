@@ -1,2 +1,2 @@
 # ShooterMania
-IOS game created using Swift and Spritekit
+IOS game created using Swift and SpriteKit
