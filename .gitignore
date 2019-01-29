@@ -1,2 +1,5 @@
-*.xcodeproj
 .DS_Store
+*.xcodeproj
+*.png
+ShooterMania/Assets.xcassets/
+ShooterMania/Base.lproj/
